@@ -32,7 +32,7 @@ If the folder has:
     archive.zip
     note.txt
 
-After running the script, the folder will look like this:
+<pre> After running the script, the folder will look like this:
     jpg/
     image.jpg
     pdf/
@@ -40,7 +40,7 @@ After running the script, the folder will look like this:
     zip/
     archive.zip
     txt/
-    note.txt
+    note.txt </pre>
 
 ---
 

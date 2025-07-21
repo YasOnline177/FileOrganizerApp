@@ -27,13 +27,13 @@ This is a simple terminal-based File Organizer tool written in Python. It helps 
 ## Example
 
 If the folder has:
-    image.jpg
+    <pre> image.jpg
     document.pdf
     archive.zip
-    note.txt
+    note.txt </pre>
 
-<pre> After running the script, the folder will look like this:
-    jpg/
+After running the script, the folder will look like this:
+    <pre> jpg/
     image.jpg
     pdf/
     document.pdf
